@@ -5,7 +5,7 @@ function HomePage() {
 
     <h2> Foto do Dev:</h2>
 
-    <img src="/images/avatar.jpeg"/>
+    <img src="/images/avatar.jpeg"/> 
 
   <ul>
       <li>
